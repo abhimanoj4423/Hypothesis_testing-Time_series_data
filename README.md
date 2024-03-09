@@ -1,6 +1,6 @@
 # Hypothesis_testing-Time_series_data
 
-A data science project to understand the correlation between the 'Wind - Mean Speed (kn)' and the various factors affecting, namely **'Month', 'Wind - Mean Direction', 'Pressure at Mean Sea Level (hPa)', 'Relative Humidity', 'Temperature - Dry Bulb (°C)', 'Wind - Max Gust Speed (kn)'** and **'Relative Humidity'**. The dataset used for the testing is Edinburgh wind dataset containing the information abount wind speeds from1999 to 2008.
+A data science project to understand the correlation between the 'Wind - Mean Speed (kn)' and the various factors affecting, namely **'Month', 'Wind - Mean Direction', 'Pressure at Mean Sea Level (hPa)', 'Relative Humidity', 'Temperature - Dry Bulb (°C)', 'Wind - Max Gust Speed (kn)'** and **'Relative Humidity'**. The dataset used for the testing is Edinburgh wind dataset containing  information about the above given variables from 1999 to 2008.
 
 ## Steps involved
 ## 1. EDA
