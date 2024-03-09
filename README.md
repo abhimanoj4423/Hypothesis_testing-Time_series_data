@@ -5,6 +5,9 @@ A data science project to understand the correlation between the 'Wind - Mean Sp
 ## Steps involved
 ## 1. EDA
 ## 2. Feature Engineering
+#### 2.1 Feature Tranformation
+#### 2.2 Feature reduction
+#### 2.3 Feature construction
 ## 3. Correlation tests
 * Asumption - Identical and Normal Distribution to find the dependency of windspeed with various metrices
 #### 3.1 Spearman Rank Correlation
